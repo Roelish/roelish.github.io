@@ -14,7 +14,7 @@ body {
     padding: 0;
     /* make it look decent enough */
     background: #D39C3A;
-    color: #cdcdcd;
+    color: #D39C3A;
     font-family: "Avenir Next", "Avenir", sans-serif;
 }
 
@@ -94,7 +94,7 @@ nav > div span:nth-last-child(2) {
 nav > div input:checked ~ span {
     opacity: 1;
     transform: rotate(45deg) translate(-2px, -1px);
-    background: #232323;
+    background: #D39C3A;
 }
 
 
